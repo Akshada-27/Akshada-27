@@ -19,15 +19,13 @@
 
 ## 🛠 Skills
 
-- SQL
 - Python
-- Advanced Excel
+- SQL
 - Power BI
 - Tableau
-- Pandas
-- NumPy
-- Matplotlib
-- MySQL
+- Advanced Excel
+
+---
 
   ## 📜 Certifications
 
