@@ -30,7 +30,7 @@
 
   ## 📜 Certifications
 
-Currently pursuing Data Science & Analytics with AI Course
+ Data Science & Analytics with AI
 ---
 
 ## 📫 Connect with Me
