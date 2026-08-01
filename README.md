@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Akshada-27/portfolio-assets.git" alt="GitHub Banner" width="100%">
-</p>
+
 <h1 align="center">Hi 👋, I'm Akshada Rohokale</h1>
 
 <h3 align="center">Aspiring Data Analyst | Data Science Enthusiast</h3>
