@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" alt="Banner" width="100%">
+  <img src=""C:\Users\userp\Downloads\ChatGPT Image Aug 1, 2026, 05_44_24 PM.png"" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Akshada Rohokale</h1>
 
