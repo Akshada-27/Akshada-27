@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\userp\Downloads\Banner(1).png" width="100%" alt="Banner">
+  <img src="https://github.com/Akshada-27/portfolio-assets.git" width="100%" alt="Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Akshada Rohokale</h1>
 
