@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" alt="Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Akshada Rohokale</h1>
 
 <h3 align="center">Aspiring Data Analyst | Data Science Enthusiast</h3>
